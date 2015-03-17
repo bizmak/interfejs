@@ -1,0 +1,5 @@
+c:\users\support\documents\visual studio 2010\Projects\Implementacija\Implementacija\bin\Debug\Implementacija.exe
+c:\users\support\documents\visual studio 2010\Projects\Implementacija\Implementacija\bin\Debug\Implementacija.pdb
+c:\users\support\documents\visual studio 2010\Projects\Implementacija\Implementacija\obj\x86\Debug\Implementacija.exe
+c:\users\support\documents\visual studio 2010\Projects\Implementacija\Implementacija\obj\x86\Debug\Implementacija.pdb
+C:\Users\support\documents\visual studio 2010\Projects\Implementacija\Implementacija\obj\x86\Debug\Implementacija.csprojResolveAssemblyReference.cache
